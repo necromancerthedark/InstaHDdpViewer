@@ -28,13 +28,23 @@ A simple script written in python to fetch profile pictures from Instagram in 10
  
  ```Run command "pip install -r requirements.txt" and wait to finish downloading (pip3 if you're on MacOs or Linux)```
  
+ 
+ ## Login and Download
+ *Step 1:*
+ 
+ ```Edit **your** username and password in secret.json```
+ 
+ *Step 2:*
+ 
+ ```Add username of people whose DP you want in people.txt (Example included)```
+ 
+ *Step 3:*
+ 
+ ```Run script by "python InstaHDdpSaver.py" in Windows   (python3 for MacOs and Linux)```
+ 
  *Step 4:*
  
- ```Run command "python InstaHDdpViewer.py" (python3 for MacOs and Linux) ```
- 
- *Step 5:*
- 
- ```Give appropriate info and then give username of person you want to fetch profile picture of```
+ ```Sit back relax and wait till script has downloaded all photos```
  
  ## Troubleshooting 
  If you find any problem with Instagram api you can always go and install fresh copy of api from [here.](https://github.com/ping/instagram_private_api)
