@@ -1,0 +1,5 @@
+--delete everything in this txt file and enter username of profile in new line,example:--
+katyperry
+mileycyrus
+Nike
+liveroverflow
