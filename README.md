@@ -4,6 +4,8 @@ It uses instagram API to fetch HD profile picture using only username. Made with
 ## Overview
 A simple script written in python to fetch profile pictures from Instagram in 1080x1080 resolution and save them locally.
 
+![Tutorial-gif](https://github.com/necromancerthedark/InstaHDdpViewer/blob/main/Tutorial.gif)
+
 ## Supported Platform
 - Windows
 - Linux
