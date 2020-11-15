@@ -53,7 +53,7 @@ A simple script written in python to fetch profile pictures from Instagram in 10
  Using this api too many times in a day can result in ban of instagram account, so do not exploit this. This problem will be fixed in future updates.
  
  ## TODO
- - Implemnting download photos of multiple user at once
+ - ~~Implemnting download photos of multiple user at once~~ DONE!!
  
  ## Author
  Made in python with ❤ by Kumar Gaurav Pandey.
