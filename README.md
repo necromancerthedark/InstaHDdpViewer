@@ -48,7 +48,11 @@ A simple script written in python to fetch profile pictures from Instagram in 10
  
  ```Sit back relax and wait till script has downloaded all photos```
  
- ## Troubleshooting 
+## Uses
+Can be used for gathering datasets for machine learning algorithm and neural networks!
+ 
+
+## Troubleshooting 
  If you find any problem with Instagram api you can always go and install fresh copy of api from [here.](https://github.com/ping/instagram_private_api)
  
  ## Warning 
